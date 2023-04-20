@@ -1,0 +1,16 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/linux",
+    "cSpell.words": [
+        "ARGB",
+        "cupertino",
+        "Etat",
+        "Historique",
+        "signin",
+        "signup",
+        "speciality",
+        "syncfusion",
+        "tlchargement",
+        "unfocus"
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
